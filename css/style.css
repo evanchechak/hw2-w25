@@ -60,10 +60,13 @@ div{
     border-right: 5px #eeeeee solid;
     border-left: 0px;
     border-bottom: 0px;
-    color: #C4C4C4;
 }
 
 .blue h2{
+    color: #C4C4C4;
+}
+
+.blue p{
     color: #C4C4C4;
 }
 
@@ -104,6 +107,7 @@ footer p{
     padding-right: 15px;
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-left: 0px;
 }
 
 
