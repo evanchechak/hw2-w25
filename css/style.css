@@ -82,7 +82,7 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-top: 2px #eeeeee solid;
@@ -91,8 +91,20 @@ div{
     border-bottom: 0px;
 }
 
+footer{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0, 0, 0, 1) 100%);
+    border: 5px solid #eeeeee;
+}
 
 
+footer p{
+    font-size: 20px;
+    text-align: right;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 
 
